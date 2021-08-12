@@ -1,0 +1,118 @@
+{
+    "beginners": [
+        {
+            "id": 1,
+            "name": "Introduction"
+        },
+        {
+            "id": 2,
+            "name": "Variables & Data Types"
+        },
+        {
+            "id": 3,
+            "name": "Basic oparators & inputs"
+        },
+        {
+            "id": 4,
+            "name": "conditons"
+        },
+        {
+            "id": 5,
+            "name": "if-else"
+        },
+        {
+            "id": 6,
+            "name": "chained conditionals"
+        },
+        {
+            "id": 7,
+            "name": "for loop"
+        },
+        {
+            "id": 8,
+            "name": "while loop"
+        },
+        {
+            "id": 9,
+            "name": "list’s & tuples"
+        },
+        {
+            "id": 10,
+            "name": "Iteration by items"
+        },
+        {
+            "id": 11,
+            "name": "string methods"
+        },
+        {
+            "id": 14,
+            "name": "slice operators"
+        },
+        {
+            "id": 15,
+            "name": "functions"
+        },
+        {
+            "id": 16,
+            "name": "How to read a text file"
+        },
+        {
+            "id": 17,
+            "name": "how to write a text file"
+        },
+        {
+            "id": 18,
+            "name": "using .count() & .find()"
+        },
+        {
+            "id": 19,
+            "name": "modular programming"
+        },
+        {
+            "id": 20,
+            "name": "optional parameters"
+        },
+        {
+            "id": 21,
+            "name": "try-except"
+        },
+        {
+            "id": 22,
+            "name": "global & local variables"
+        }
+    ],
+    "intermediate": [
+        {
+            "id":23,
+			"name": "optional parameters"
+		},
+		{
+            "id":24,
+			"name": "static and class methods"	
+		},
+		{
+            "id":25,
+			"name": "map function"
+		},
+		{
+            "id":26,
+			"name": "filter function"
+		},
+		{
+            "id":27,
+			"name": "lambda function"
+		},
+		{
+            "id":28,
+			"name": "collections"
+		},
+		{
+            "id":29,
+			"name": "named tuple"
+		},
+		{
+            "id":30,
+			"name": "deque"
+		}
+    ]
+}
